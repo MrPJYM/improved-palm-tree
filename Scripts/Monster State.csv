@@ -1,0 +1,4 @@
+Name,Level,Exp,HP,AtkSpeed,AttackMoveSpeed,MoveSpeed,RecognitionRange,AtkRange,Damage,Defens,AtkType
+IceMonster,3,5,20,1.5,0.2,0.2,12,5,1,0,Long
+FireMonster,3,5,20,1.5,0.2,0.2,7,3,1,0,Short
+EarthMonster,3,5,20,1.5,0.2,0.2,7,3,1,0,Short
